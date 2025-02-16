@@ -6,7 +6,7 @@
   --shadow-inset: 0px 0px 3px 0px grey inset;
 }
 body {
-  background-color: #fff3ce;
+  background-color: #fff3ce !important;
 }
 
 .wrapper {
